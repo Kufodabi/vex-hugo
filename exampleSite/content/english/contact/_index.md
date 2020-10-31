@@ -11,13 +11,13 @@ office:
 opennig_hour:
   title: Heures d'ouverture
   day_time:
-  - 'Lundi: 9:00 – 19:00'
-  - 'Mardi: 9:00 – 19:00'
-  - 'Mercredi: 9:00 – 19:00'
-  - 'Jeudi: 9:00 – 19:00'
-  - 'Vendredi: 9:00 – 19:00'
-  - 'Samedi: 9:00 – 20:00'
-  - 'Dimanche: 9:00 – 20:00'
-  - 'Jour fériés: 9:00 – 20:00'
+  - 'Lundi: 9h00 – 19h00'
+  - 'Mardi: 9h00 – 19h00'
+  - 'Mercredi: 9h00 – 19h00'
+  - 'Jeudi: 9h00 – 19h00'
+  - 'Vendredi: 9h00 – 19h00'
+  - 'Samedi: 9h00 – 20h00'
+  - 'Dimanche: 9h00 – 20h00'
+  - 'Jour fériés: 9h00 – 20h00'
 
 ---
