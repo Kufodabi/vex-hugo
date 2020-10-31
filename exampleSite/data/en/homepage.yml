@@ -18,9 +18,9 @@ features:
   - title: Taille
     icon: tf-ion-ios-alarm-outline
     content: 92,4 x 30,2 x 15,2 mm
-  - title: Masse
+  - title: Connectique
     icon: tf-ion-ios-bell-outline
-    content: 28,5 grammes
+    content: Wifi Dual Band, USB (charge), HDMI
   - title: CPU
     icon: tf-ion-ios-cart-outline
     content: Amlogic S905Y2 (ARM Cortex-A53 + ARM Mali-450)
