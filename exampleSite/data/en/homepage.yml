@@ -28,10 +28,9 @@ features:
   - title: RAM
     icon: tf-ion-ios-alarm-outline
     content: 1 Go DDR4
-  - title: Elegant Design
+  - title: Stockage
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 8 Go
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
