@@ -18,14 +18,12 @@ features:
   - title: Taille
     icon: tf-ion-ios-alarm-outline
     content: 92,4 x 30,2 x 15,2 mm
-  - title: Elegant Design
+  - title: Masse
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
+    content: 28,5 grammes
+  - title: CPU
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Amlogic S905Y2 (ARM Cortex-A53 + ARM Mali-450)
   right_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
