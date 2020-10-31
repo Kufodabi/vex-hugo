@@ -1,6 +1,6 @@
 ---
 title: Mentions Légales
-description: this is a meta description
+description: Mi Cameroun
 
 ---
 Si vous avez la moindre question, nous vous aidons avec plaisir.  
@@ -11,7 +11,7 @@ Si vous avez la moindre question, nous vous aidons avec plaisir.
 
 * **Propriétaire** : Mi Cameroun.
 * **Créateur** : Mi Cameroun.
-* **Objet** : Le site MiCameroun.com a pour objet de fournir des informations concernant l’ensemble des produits de la marque Xiaomi. Nous nous efforcons de fournir sur le site MiCameroun.com des informations aussi précises que possible. Toutefois, nous ne pourrons être tenues responsable des omissions, des inexactitudes et des carences dans la mise à jour, qu’elles soient de notre fait ou du fait des tiers partenaires qui nous fournissent ces informations. Toutes les informations indiquées sur le site MiCameroun.com sont données à titre indicatif, et sont susceptibles d’évoluer. Par ailleurs, les renseignements figurant sur le site MiCameroun.com ne sont pas exhaustifs. Ils sont donnés sous réserve de modifications ayant été apportées depuis leur mise en ligne.
+* **Objet** : Le site Mi Cameroun.com a pour objet de fournir des informations concernant l’ensemble des produits de la marque Xiaomi. Nous nous efforcons de fournir sur le site MiCameroun.com des informations aussi précises que possible. Toutefois, nous ne pourrons être tenues responsable des omissions, des inexactitudes et des carences dans la mise à jour, qu’elles soient de notre fait ou du fait des tiers partenaires qui nous fournissent ces informations. Toutes les informations indiquées sur le site MiCameroun.com sont données à titre indicatif, et sont susceptibles d’évoluer. Par ailleurs, les renseignements figurant sur le site MiCameroun.com ne sont pas exhaustifs. Ils sont donnés sous réserve de modifications ayant été apportées depuis leur mise en ligne.
 
 ### Conditions générales d’utilisation du site, des services et produits proposés.
 
