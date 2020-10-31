@@ -1,24 +1,15 @@
 ---
-title: "Realme Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-6.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+title: Xiaomi Mi TV Stick
+date: 2020-10-07T05:22:16+00:00
+images:
+- "/images/post-instagram-1080x1080-px-35.jpeg"
+- "/images/post-instagram-1080x1080-px-37.jpeg"
+- "/images/post-instagram-1080x1080-px-36.jpeg"
+description: Xiaomi Mi TV Stick
+price: "35000"
+discount_price: "30000"
+colors: []
+sizes: []
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
-
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Retrouvez ici ce qui se fait habituellement dans les box TV, mais dans un format clef USB. La Xiaomi Mi Stick TV se montre un peu plus petite qu’une FireStick d’Amazon par exemple, pour des performances supérieures et une télécommande plus aboutie. On ne peut donc que vous conseiller cette « mini Box » (bien que limitée au 1080p) que vous pouvez évidemment retrouver sur votre vendeur préféré Mi Cameroun !
