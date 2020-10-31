@@ -76,8 +76,8 @@ subscription:
   enable: true
   bg_image: "/images/troti.jpg"
   title: Restez informé des nouveaux produits
-  content: Saisissez votre adresse email et nous vous ferons une reduction de 5% sur
-    votre prochaine commande.
+  content: Saisissez votre adresse email et nous vous ferons une reduction de 1000
+    fcfa sur votre prochaine commande.
   placeholder: Votre adresse email !
 testimonial:
   enable: false
