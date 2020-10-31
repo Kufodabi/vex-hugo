@@ -1,24 +1,38 @@
 ---
-title: "Galaxy Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+title: Xiaomi Airdots Pro 2
+date: 2020-10-15T05:22:16+00:00
+images:
+- "/images/post-instagram-1080x1080-px-25.jpeg"
+- "/images/post-instagram-1080x1080-px-26.jpeg"
+- "/images/post-instagram-1080x1080-px-27.jpeg"
+- "/images/post-instagram-1080x1080-px-28.jpeg"
+description: this is meta description
+price: "37000"
+discount_price: "35000"
+colors: []
+sizes: []
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
+**✅** Technologie LHDC
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+**✅** Réduction de bruit
+
+**✅** Poids de 4,5 grammes
+
+## Présentation des Xiaomi Airdots Pro 2
+
+Depuis le début de son histoire, Xiaomi a sans cesse renouvelé sa gamme d’écouteurs. En 2019, la célèbre marque chinoise a pris le tournant sur les « True Wireless » et en propose désormais un large choix. Aujourd’hui, Xiaomi revient avec une version améliorée (voire totalement revue) de ses Mi Airdots Pro. Souvenez-vous, la première génération possédait en effet un tout autre design. Nous pouvons notamment noter qu’il ne s’agit plus d’intra-auriculaires, et que la surface grise positionnée à l’arrière a disparu. Place à un design 100% blanc et entièrement refait !
+
+Les Xiaomi Mi Airdots Pro 2 sont agréables une fois dans l’oreille, et leur faible poids est très apprécié. Autre grand avantage de ces écouteurs : leur son LHDC, qui promet un son plus vrai que nature. Cette technologie permet de reconstruire à l’identique les fréquences sonores, afin de conserver un son d’excellente qualité. La qualité sonore est également certifiée HD par plusieurs organismes. Les Xiaomi Airdots Pro 2 disposent d’une réduction de bruit active qui fonctionne à merveille. Celle-ci a grandement été améliorée par rapport au modèle précédent, et marche désormais grâce à 2 micros. En prime, leur extrême légèreté de 4,5 grammes vous fera pleinement profiter de votre musique.
+
+## Caractéristiques des écouteurs
+
+* Son LHDC, aucune perte sonore.
+* Connexion instantanée aux smartphones Xiaomi.
+* Poids plume de 4,5 grammes.
+* Réduction de bruit active [ENC](https://fr.wikipedia.org/wiki/Contr%C3%B4le_actif_du_bruit).
+* Commandes vocales et tactiles.
+* Charge en seulement 1h.
+* 4h d’autonomie + 14h avec l’étui de charge.
+* Bluetooth 5.0, rapide et stable.
+* Câble de charge inclus.
