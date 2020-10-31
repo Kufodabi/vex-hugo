@@ -6,17 +6,11 @@ images:
 - "/images/post-instagram-1080x1080-px-3.jpeg"
 - "/images/post-instagram-1080x1080-px.jpeg"
 - "/images/post-instagram-1080x1080-px-1.jpeg"
-description: this is meta description
-price: '30.00'
-discount_price: '25.00'
-colors:
-- black
-- white
-- gray
-sizes:
-- small
-- medium
-- large
+description: Tournevis électrique Xiaomi – Mijia ScrewDriver
+price: "44000"
+discount_price: "40000"
+colors: []
+sizes: []
 
 ---
 Facile à utiliser, le Xiaomi Mijia ScrewDriver est l’outil parfait pour tous les bricoleurs. Il saura s’adapter à tous vos usages grâce à ses 12 têtes de vissage !
