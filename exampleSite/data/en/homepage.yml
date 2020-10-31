@@ -15,9 +15,9 @@ features:
   title: Présentation Xiaomi TV Stick.
   image: "/images/post-instagram-1080x1080-px-36.jpeg"
   left_side:
-  - title: Taille
+  - title: Système
     icon: tf-ion-ios-alarm-outline
-    content: 92,4 x 30,2 x 15,2 mm
+    content: Android TV 9
   - title: Connectique
     icon: tf-ion-ios-bell-outline
     content: Wifi Dual Band, USB (charge), HDMI
