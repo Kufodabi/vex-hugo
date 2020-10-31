@@ -32,7 +32,7 @@ features:
     icon: tf-ion-ios-bell-outline
     content: 8 Go
   - title: Prix
-    icon: tf-ion-ios-cart-outline
+    icon: tf-ion-cash
     content: 25.000 FCFA
 promo:
   enable: true
