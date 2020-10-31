@@ -19,7 +19,7 @@ features:
     icon: tf-ion-ios-alarm-outline
     content: Android TV 9
   - title: Connectique
-    icon: tf-ion-ios-bell-outline
+    icon: tf-ion-android-wifi
     content: Wifi Dual Band, USB (charge), HDMI
   - title: CPU
     icon: tf-ion-ios-cart-outline
