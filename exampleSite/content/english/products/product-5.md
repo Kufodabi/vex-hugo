@@ -16,3 +16,9 @@ sizes:
 
 ---
 La Redmi TV Soundbar arbore un design très moderne intégrant plusieurs hauts-parleurs pour une puissance cumulée de 30W. Cette enceinte saura répondre à tous vos besoins et envies grâce à sa compatibilité filaire (SPDIF) et Bluetooth 5.0. Profitez d’une expérience audio immersive digne d’une salle de cinéma directement dans votre salon !
+
+✅ Puissance sonore de 30W
+
+✅ Conception en métal et ABS
+
+✅ Installation murale ou posée
