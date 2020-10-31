@@ -5,7 +5,7 @@ banner:
   content: Bienvenu dans notre e-boutique Xiaomi. Choisissez le produit qui convient
     à votre style de vie. Maison, travail ou loisirs, cette marque de référence fabrique
     des produits de haute qualité et accessibles à tous, pour une utilisation quotidienne.
-  image: images/watch.png
+  image: "/images/post-instagram-1080x1080-px-35.jpeg"
   button:
     enable: true
     label: Parcourir tous les produits
