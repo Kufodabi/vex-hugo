@@ -26,7 +26,7 @@ features:
     content: Amlogic S905Y2 (ARM Cortex-A53 + ARM Mali-450)
   right_side:
   - title: RAM
-    icon: tf-ion-ios-alarm-outline
+    icon: tf-ion-android-sync
     content: 1 Go DDR4
   - title: Stockage
     icon: tf-ion-folder
