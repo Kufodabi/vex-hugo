@@ -80,7 +80,7 @@ subscription:
     votre prochaine commande.
   placeholder: Votre adresse email !
 testimonial:
-  enable: true
+  enable: false
   title: Watch Review
   testimonial_item:
   - name: Jonathon Andrew
