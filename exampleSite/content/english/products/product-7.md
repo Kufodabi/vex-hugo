@@ -1,24 +1,34 @@
 ---
-title: "OnePlus Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-7.png"
-  - "images/showcase/showcase-5.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+title: Xiaomi Mi TV Speaker Home Theater
+date: 2020-10-30T05:22:16+00:00
+images:
+- "/images/post-instagram-1080x1080-px-9.jpeg"
+- "/images/post-instagram-1080x1080-px-10.jpeg"
+- "/images/post-instagram-1080x1080-px-13.jpeg"
+- "/images/post-instagram-1080x1080-px-11.jpeg"
+- "/images/post-instagram-1080x1080-px-12.jpeg"
+description: this is meta description
+price: "180000"
+discount_price: "140000"
+colors: []
+sizes:
+- large
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
+### Caractéristiques principales
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+● Bouton tactile, support de bureau ou mural.  
+● Connexion en trois étapes facile à utiliser.  
+● Transmission sans fil stable, performances anti-interférences fortes.  
+● 2 Haut-parleurs pleine fréquence, 2 tweeters, 1 subwoofers 6,5 pouces, 5 unités sonores, les niveaux de graves élevés et moyens sont distincts, la qualité sonore est claire.  
+● Les méthodes de connexion multiple : Bluetooth 5.0, fibre optique, coaxiale et Aux, se connecte facilement aux téléviseurs, TV Box, ordinateurs, iPad, téléphones mobiles et autres appareils.
+
+### Contenu de l'emballage
+
+  
+1 x barre de son  
+1 x Subwoofer  
+1 x Câble Audio Coaxial  
+1 x Câble Subwoofer  
+1 x Accessoires Muraux  
+1 x Manuel
