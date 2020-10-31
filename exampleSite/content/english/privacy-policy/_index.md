@@ -1,6 +1,6 @@
 ---
 title: A propos
-description: this is a meta description
+description: Mi Cameroun, produits originaux au Cameroun.
 
 ---
 **MiCameroun.com** est géré par l'établissement Mi Cameroun, une boutique de vente des produits originaux Xiaomi.
