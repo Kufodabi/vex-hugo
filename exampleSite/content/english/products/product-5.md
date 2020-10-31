@@ -1,25 +1,18 @@
 ---
-title: "Redmi Watch"
-date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/showcase-5.png"
-images: 
-  - "images/showcase/showcase-5.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+title: Redmi TV Soundbar – Barre de son
+date: 2020-10-10T05:22:16+00:00
+image: images/showcase/showcase-5.png
+images:
+- "/images/post-instagram-1080x1080-px-23.jpeg"
+- "/images/post-instagram-1080x1080-px-21.jpeg"
+- "/images/post-instagram-1080x1080-px-22.jpeg"
+description: Barre de son Xiaomi MDZ-34-DA
+price: '60.000'
+discount_price: '45.000'
+colors:
+- black
+sizes:
+- Moyenne
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
-
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+La Redmi TV Soundbar arbore un design très moderne intégrant plusieurs hauts-parleurs pour une puissance cumulée de 30W. Cette enceinte saura répondre à tous vos besoins et envies grâce à sa compatibilité filaire (SPDIF) et Bluetooth 5.0. Profitez d’une expérience audio immersive digne d’une salle de cinéma directement dans votre salon !
