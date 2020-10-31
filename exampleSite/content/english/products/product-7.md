@@ -27,7 +27,7 @@ sizes:
 
   
 1 x barre de son  
-1 x Subwoofer  
+1 x Caisson de basse  
 1 x Câble Audio Coaxial  
 1 x Câble Subwoofer  
 1 x Accessoires Muraux  
