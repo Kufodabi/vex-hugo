@@ -35,7 +35,7 @@ features:
     icon: tf-ion-cash
     content: 25.000 FCFA
 promo:
-  enable: true
+  enable: false
   image: images/watch.png
   title: Designed by professional , the benefit for creative gigs
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
