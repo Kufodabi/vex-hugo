@@ -22,7 +22,7 @@ features:
     icon: tf-ion-android-wifi
     content: Wifi Dual Band, USB (charge), HDMI
   - title: CPU
-    icon: tf-ion-ios-cart-outline
+    icon: tf-ion-android-options
     content: Amlogic S905Y2 (ARM Cortex-A53 + ARM Mali-450)
   right_side:
   - title: RAM
