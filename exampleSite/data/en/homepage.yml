@@ -74,10 +74,11 @@ products:
   title: Voir d'autres produits
 subscription:
   enable: true
-  bg_image: images/call-to-action.jpg
-  title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  placeholder: Your Email Address Here
+  bg_image: "/images/troti.jpg"
+  title: Restez informé des nouveaux produits
+  content: Saisissez votre adresse email et nous vous ferons une reduction de 5% sur
+    votre prochaine commande.
+  placeholder: Votre adresse email !
 testimonial:
   enable: true
   title: Watch Review
