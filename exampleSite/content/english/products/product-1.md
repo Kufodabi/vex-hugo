@@ -1,24 +1,27 @@
 ---
-title: "Apple Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+title: Xiaomi -Mi x Wiha Kit de 24 Tournevis en 1
+date: 2020-10-06T05:22:16+00:00
+images:
+- "/images/post-instagram-1080x1080-px-8.jpeg"
+- "/images/post-instagram-1080x1080-px-7.jpeg"
+- "/images/post-instagram-1080x1080-px-6.jpeg"
+description: this is meta description
+price: '30.00'
+discount_price: '25.00'
+colors:
+- black
+- white
+- gray
+sizes:
+- small
+- medium
+- large
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
+Avec ce Kit de 24 tournevis fabriqué par Wiha, marque allemande en outils haut de gamme, Convient pour les montres à quartz, caméras vidéo, radios, ordinateurs, téléphones portables, drones et autres appareils électroménagers classiques, pour répondre aux besoins d'entretien quotidien.
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+* boite de rangement en alliage d'aluminium
+* Bords incurvés et lisses pour une prise en main comfortable
+* Résistant à la sueur
+* Traitement anti-dérapant spécial
+* Résistant à la corrosion-Anti-rouille
