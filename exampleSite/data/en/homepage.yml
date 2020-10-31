@@ -25,10 +25,9 @@ features:
     icon: tf-ion-ios-cart-outline
     content: Amlogic S905Y2 (ARM Cortex-A53 + ARM Mali-450)
   right_side:
-  - title: Smooth Touch
+  - title: RAM
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 1 Go DDR4
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
