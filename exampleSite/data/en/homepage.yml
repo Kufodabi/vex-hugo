@@ -13,7 +13,7 @@ banner:
 features:
   enable: true
   title: Présentation Xiaomi TV Stick.
-  image: "/images/post-instagram-1080x1080-px-36.jpeg"
+  image: "/images/xitv.jpg"
   left_side:
   - title: Système
     icon: tf-ion-android-options
