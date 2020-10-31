@@ -46,11 +46,13 @@ about_product:
   enable: true
   title: Why Choose Apple Watch
   items:
-  - image: images/showcase/showcase-4.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+  - image: "/images/tvstick.jpg"
+    title: Aspect et design
+    content: 'Comme son nom l’indique, la Xiaomi Mi TV Stick prend la forme d’une
+      clef USB. Mais attention, elle se branche bien sur le port HDMI de votre TV
+      ! La clef est extrêmement compacte : la télécommande est plus imposante ! Ses
+      dimensions sont de 92,4 x 30,2 x 15,2 mm pour 28,5 grammes. Elle sera facilement
+      transportable en voyage ou derrière votre TV !'
     button:
       enable: false
       label: Check Features
