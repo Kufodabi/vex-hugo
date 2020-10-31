@@ -1,6 +1,6 @@
 ---
 title: Xiaomi Airdots 2 SE
-date: 2020-11-05T05:22:16+00:00
+date: 2020-10-20T05:22:16+00:00
 images:
 - "/images/post-instagram-1080x1080-px-33.jpeg"
 - "/images/post-instagram-1080x1080-px-32.jpeg"
