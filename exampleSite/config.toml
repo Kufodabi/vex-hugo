@@ -34,7 +34,7 @@ name = "Privacy Policy"
 weight = 4
 [[menu.main]]
 URL = "/"
-name = "Home"
+name = "Acceuil"
 weight = 1
 [[menu.main]]
 URL = "products"
