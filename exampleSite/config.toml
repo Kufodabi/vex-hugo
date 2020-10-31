@@ -26,7 +26,7 @@ name = "Contact"
 weight = 2
 [[menu.footer]]
 URL = "terms-conditions"
-name = "Terms & Conditions"
+name = "Mentions Légales"
 weight = 3
 [[menu.footer]]
 URL = "privacy-policy"
