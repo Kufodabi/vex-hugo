@@ -59,7 +59,7 @@ contact_form_action = "#"
 currency = "XAF"
 description = "MiCameroun est votre spécialiste Xiaomi Cameroun.  Notre site n’est pas uniquement une boutique : c’est avant tout un lieu de partage, avec des tests en français et des articles pour vous tenir au courant des dernières nouveautés de la marque."
 logo = "/images/micameroun1.png"
-logo_width = "100px"
+logo_width = "200px"
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
