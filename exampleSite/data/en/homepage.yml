@@ -15,10 +15,9 @@ features:
   title: Présentation Xiaomi TV Stick.
   image: "/images/post-instagram-1080x1080-px-36.jpeg"
   left_side:
-  - title: Smooth Touch
+  - title: Taille
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 92,4 x 30,2 x 15,2 mm
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
