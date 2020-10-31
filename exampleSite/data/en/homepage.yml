@@ -29,7 +29,7 @@ features:
     icon: tf-ion-ios-alarm-outline
     content: 1 Go DDR4
   - title: Stockage
-    icon: tf-ion-ios-bell-outline
+    icon: tf-ion-folder
     content: 8 Go
   - title: Prix
     icon: tf-ion-cash
