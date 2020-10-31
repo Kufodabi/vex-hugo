@@ -30,7 +30,7 @@ name = "Mentions Légales"
 weight = 3
 [[menu.footer]]
 URL = "privacy-policy"
-name = "Privacy Policy"
+name = "A propos"
 weight = 4
 [[menu.main]]
 URL = "/"
