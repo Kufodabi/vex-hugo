@@ -16,7 +16,7 @@ features:
   image: "/images/post-instagram-1080x1080-px-36.jpeg"
   left_side:
   - title: Système
-    icon: tf-ion-ios-alarm-outline
+    icon: tf-ion-android-options
     content: Android TV 9
   - title: Connectique
     icon: tf-ion-android-wifi
