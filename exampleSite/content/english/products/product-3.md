@@ -2,11 +2,11 @@
 title: Barre de son Xiaomi pour TV
 date: 2020-10-21T05:22:16+00:00
 images:
-- "/images/post-instagram-1080x1080-px-20.jpeg"
 - "/images/post-instagram-1080x1080-px-19.jpeg"
 - "/images/post-instagram-1080x1080-px-14.jpeg"
-- "/images/post-instagram-1080x1080-px-18.jpeg"
 - "/images/post-instagram-1080x1080-px-15.jpeg"
+- "/images/post-instagram-1080x1080-px-20.jpeg"
+- "/images/post-instagram-1080x1080-px-18.jpeg"
 description: La Redmi TV Soundbar arbore un design très moderne intégrant plusieurs
   hauts-parleurs pour une puissance cumulée de 30W. Cette enceinte saura répondre
   à tous vos besoins et envies grâce à sa compatibilité filaire (SPDIF) et Bluetooth
