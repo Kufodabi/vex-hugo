@@ -1,8 +1,8 @@
 ---
 title: 'Xiaomi Mi TV Stick : la clef USB qui transforme votre TV !'
 date: 2019-10-17T11:22:16.000+06:00
-image: images/showcase/showcase-4.png
-description: this is a meta description
+image: "/images/xitvstick.jpg"
+description: Xiaomi Mi TV Stick
 
 ---
 Vous avez une ancienne télévision non connectée? Ou interface de la vôtre ne vous plait pas? Et vous cherchez donc une box TV compacte et performante? La Mi TV Stick est faite pour vous! On vous la présente.
