@@ -13,8 +13,8 @@ description: La Redmi TV Soundbar arbore un design très moderne intégrant plus
   5.0. Profitez d’une expérience audio immersive digne d’une salle de cinéma directement
   dans votre salon !✅ Puissance sonore de 30W  ✅ Conception en métal et ABS  ✅ Installation
   murale ou posée
-price: '110.000'
-discount_price: '80.000'
+price: "110000"
+discount_price: "80000"
 colors:
 - noir
 - blanche
@@ -22,22 +22,22 @@ sizes:
 - Moyenne
 
 ---
-* [**DESCRIPTION**](https://xifrance.com/product/xiaomi-mi-barre-de-son/#tab-description)
+* [**LA DESCRIPTION**](https://xifrance.com/product/xiaomi-mi-barre-de-son/#tab-description)
 
-La barre de son Xiaomi est d’un excellent rapport qualité/prix comme tout produit Xiaomi qui se respecte.
+La barre de son Xiaomi est d'un excellent rapport qualité / prix comme tout produit Xiaomi qui se respecte.
 
-Elle est à la fois puissante et de qualité avec un son très clair. La puissance réelle n’est pas communiquée mais la performance est bien au rendez-vous.
+Elle est à la fois puissante et de qualité avec un son très clair. La puissance réelle n'est pas communiquée mais la performance est bien au rendez-vous.
 
-Cette barre de est prévue pour renforcer le système de votre TV mais peut également servir d’enceinte bluetooth.
+Cette barre est prévue pour renforcer le système de votre TV mais peut également servir d'enceinte bluetooth.
 
 **Caractéristiques**
 
-* Bluetooth : Oui
-* Distance du Bluetooth : environ 10 mètres
-* Nombre de HP : 8 (Son 7.1)
-* Fréquence: 50Hz – 25000Hz ( -10dB )
-* Dimension: 83.00 x 7.20 x 8.70 cm
+* Bluetooth: Oui
+* Distance du Bluetooth: environ 10 mètres
+* Nombre de HP: 8 (Son 7.1)
+* Fréquence: 50Hz - 25000Hz (-10dB)
+* Mesures: 83,00 x 7,20 x 8,70 cm
 * Poids: environ 1,93kg
-* Port : Auxiliaire, Line, SPDIP, Optique
-* Consommation électrique : Faible (15W)
+* Port: Auxiliaire, Ligne, SPDIP, Optique
+* Consommation électrique: Faible (15W)
 * **Couleur: Blanc**
