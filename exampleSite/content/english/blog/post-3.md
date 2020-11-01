@@ -1,7 +1,7 @@
 ---
 title: How to choose right watch for you.
 date: 2019-10-17T11:22:16.000+06:00
-image: images/showcase/showcase-3.png
+image: "/images/micameroun2.png"
 description: La popularité des smartphones Xiaomi aujourd'hui est juste à l'échelle,
   car la marque a des positions fortes dans le segment budgétaire, qui a la plus grande
   demande dans notre pays. Les appareils de cette marque ont inondé le marché, il
