@@ -8,7 +8,8 @@ images:
 description: Xiaomi Mi TV Stick
 price: "35000"
 discount_price: "30000"
-colors: []
+colors:
+- noire
 sizes: []
 
 ---
