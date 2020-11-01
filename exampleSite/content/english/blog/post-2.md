@@ -1,7 +1,7 @@
 ---
 title: Redmi TV Soundbar – Barre de son
 date: 2019-10-17T11:22:16.000+06:00
-image: images/showcase/showcase-2.png
+image: "/images/post-instagram-1080x1080-px-21.jpeg"
 description: 'La Redmi TV Soundbar arbore un design très moderne intégrant plusieurs
   hauts-parleurs pour une puissance cumulée de 30W. '
 
