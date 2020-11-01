@@ -40,4 +40,4 @@ Cette barre est prévue pour renforcer le système de votre TV mais peut égalem
 * Poids: environ 1,93kg
 * Port: Auxiliaire, Ligne, SPDIP, Optique
 * Consommation électrique: Faible (15W)
-* **Couleur: Blanc**
+* **Couleur: Blanchi**
