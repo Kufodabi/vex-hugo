@@ -1,5 +1,5 @@
 baseurl = "https://electromaker.netlify.app"
-disableLanguages = []
+disableLanguages = ["fr"]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
