@@ -1,6 +1,5 @@
 ---
-title: "All latest Smart Watch"
-description : "this is a meta description"
-draft: false
----
+title: Articles de l'heure
+description: Nouveautés Xiaomi Cameroun
 
+---
